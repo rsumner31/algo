@@ -12,7 +12,6 @@ pip show <package> (all the packages from requirements.txt)
 PUT THE OUTPUT HERE. DON'T NEED TO PASTE requirements.txt
 -->
 
-
 ### Summary of the problem
 
 
